@@ -280,13 +280,13 @@ li{
 .con2-4{
     width: 978px;
     height: 170px;
-    position: absolute;
     right: 0;
+    display: flex;
+    flex-direction:row;
 }
 .content-wrapper .con2-4 div{
     width: 316px;
     height: 170px;
-    float: left;
     overflow: hidden;
     margin-left: 10px;
 }
